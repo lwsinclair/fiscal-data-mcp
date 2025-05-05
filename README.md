@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/quantgeekdev-fiscal-data-mcp-badge.png)](https://mseep.ai/app/quantgeekdev-fiscal-data-mcp)
+
 ## Overview
 
 The [Fiscal Data MCP Server](https://github.com/QuantGeekDev/fiscal-data-mcp) demonstrates a practical implementation of an MCP server that connects to the US Treasury's Fiscal Data API. It showcases:
